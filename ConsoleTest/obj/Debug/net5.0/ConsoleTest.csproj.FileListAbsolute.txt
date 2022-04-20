@@ -1,0 +1,5 @@
+C:\Users\QuyVu\Desktop\ConsoleTest\ConsoleTest\obj\Debug\net5.0\ConsoleTest.csproj.AssemblyReference.cache
+C:\Users\QuyVu\Desktop\ConsoleTest\ConsoleTest\obj\Debug\net5.0\ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QuyVu\Desktop\ConsoleTest\ConsoleTest\obj\Debug\net5.0\ConsoleTest.AssemblyInfoInputs.cache
+C:\Users\QuyVu\Desktop\ConsoleTest\ConsoleTest\obj\Debug\net5.0\ConsoleTest.AssemblyInfo.cs
+C:\Users\QuyVu\Desktop\ConsoleTest\ConsoleTest\obj\Debug\net5.0\ConsoleTest.csproj.CoreCompileInputs.cache
